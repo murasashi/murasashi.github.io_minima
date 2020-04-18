@@ -5,6 +5,12 @@
  - Write MORE Tests
  - Add Night Mode
 
+### Polygot
+
+- помо́чь
+- Le récit original avait une fin très différente.
+- sulla base dei valori comuni e della storia che lega i due partner.
+- 산이 있는 곳에서는 산을 의지하여 생활하고 물이 있는 곳에서는 물을 의지하여 생활하다
 
 
 ## LaTeX
