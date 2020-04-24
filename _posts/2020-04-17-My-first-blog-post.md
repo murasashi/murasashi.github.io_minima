@@ -1,3 +1,8 @@
+---
+layout: post
+title: "my-first-post"
+categories: my-example
+---
 
 
 ### Todos
