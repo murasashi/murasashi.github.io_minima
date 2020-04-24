@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "my-first-post"
-categories: my-example
+categories: math language
 ---
 
 
