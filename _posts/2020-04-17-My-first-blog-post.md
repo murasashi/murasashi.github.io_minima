@@ -1,8 +1,3 @@
----
-layout: post
-title: "my-first-post"
-categories: math language
----
 
 
 ### Todos
