@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: A Trip - My first trip
+categories: [blog, travel] 
+tags: [hot, summer]
+---
 
 ### Todos
 
